@@ -1,0 +1,9 @@
+{
+  "appId": "com.tarek.legalassistant",
+  "appName": "المساعد القانوني المتكامل",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
